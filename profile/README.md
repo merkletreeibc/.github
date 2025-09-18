@@ -1,6 +1,6 @@
 # Cosmos Stack
 
-The Cosmos Stack is the most widely-adopted and battle-tested Layer 1 blockchain technology stack, in production with 200+ chains today. It is performant, customizable, and EVM-compatible, and offers engineers full end-to-end control of infrastructure and implementation. 
+The Cosmos Stack is the most widely-adopted and battle-tested Layer 1 blockchain technology stack, in production with 200+ chains today. It is performant, customizable, and EVM-compatible, and offers engineers full end-to-end control of their blockchain infrastructure and implementation. 
 
 The Stack is modular by design; use pre-built code modules or integrate custom features and logic for your use case, compliance needs, governance, consensus, and performance requirements. The Cosmos Stack is open-source.
 
@@ -13,7 +13,6 @@ The Cosmos Stack's primary components include:
 | Need Help? | Support & Community: [Discord](https://discord.com/invite/interchain) - [Telegram](https://t.me/CosmosOG) - [Talk to an Expert](https://cosmos.network/interest-form) - [Join the #Cosmos-tech Slack Channel](https://forms.gle/A8jawLgB8zuL1FN36) |
 | :--------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
-https://github.com/cosmos/ibc-go/blob/d83f58df/docs/versioned_docs/version-v10.1.x/01-ibc/07-relayer.md
 ## Cosmos Stack Components
 
 | Cosmos SDK | CometBFT | IBC | Cosmos EVM | Testing | Chain Info | Frontend | CosmWasm\* |
