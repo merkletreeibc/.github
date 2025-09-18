@@ -10,7 +10,7 @@ The Cosmos Stack's primary components include:
 - **Cosmos EVM**, a production-ready EVM layer with full compatibility with Ethereum smart contracts and tooling
 - **Inter-Blockchain Communication Protocol (IBC)**, the secure, industry-standard blockchain messaging protocol that enables cross-chain communication without the use of a third-party intermediary.
 
-| Need Help? | Support & Community: [Discord](https://discord.com/invite/interchain) - [Telegram](https://t.me/CosmosOG) - [Talk to an Expert](https://cosmos.network/interest-form) |
+| Need Help? | Support & Community: [Discord](https://discord.com/invite/interchain) - [Telegram](https://t.me/CosmosOG) - [Talk to an Expert](https://cosmos.network/interest-form) - [Join the #Cosmos-tech Slack Channel](https://forms.gle/A8jawLgB8zuL1FN36) |
 | :--------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 https://github.com/cosmos/ibc-go/blob/d83f58df/docs/versioned_docs/version-v10.1.x/01-ibc/07-relayer.md
@@ -29,7 +29,7 @@ https://github.com/cosmos/ibc-go/blob/d83f58df/docs/versioned_docs/version-v10.1
 > **Note:** Projects marked with an asterisk (\*) are community or third-party maintained. They are not directly maintained by Cosmos Labs.
 
 ## Maintainers and Contributors
-[Cosmos Labs](https://cosmoslabs.io/) maintains the core components of the stack: Cosmos SDK, CometBFT, IBC, Cosmos EVM, and various developer tools and frameworks. In addition to developing and maintaining the Cosmos Stack, Cosmos Labs provides advisory and engineering services for blockchain solutions. Get in touch with Cosmos Labs.
+[Cosmos Labs](https://cosmoslabs.io/) maintains the core components of the stack: Cosmos SDK, CometBFT, IBC, Cosmos EVM, and various developer tools and frameworks. In addition to developing and maintaining the Cosmos Stack, Cosmos Labs provides advisory and engineering services for blockchain solutions. [Get in touch with Cosmos Labs](https://www.cosmoslabs.io/contact).
 
 Cosmos Labs is a wholly-owned subsidiary of the [Interchain Foundation](https://interchain.io/), the Swiss nonprofit responsible for treasury management, funding public goods, and supporting governance for Cosmos. 
 
@@ -38,4 +38,4 @@ The Cosmos Stack is supported by a robust community of open-source contributors.
 ## Security
 Read about updates and security processes in the [Security repo](https://github.com/interchainio/security). 
 
-#### Explore the [Cosmos Network](https://cosmos.network/)
+#### Explore the [Cosmos Network](https://cosmos.network/) to learn more about the Cosmos technology stack and use cases.
