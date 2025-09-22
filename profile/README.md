@@ -1,4 +1,8 @@
-# Cosmos Stack
+<div align="left">
+  <h1> Cosmos Stack </h1>
+</div>
+
+![banner](../static/img/banner.svg)
 
 The Cosmos Stack is the most widely-adopted and battle-tested Layer 1 blockchain technology stack, in production with 200+ chains today. It is performant, customizable, and EVM-compatible, offering engineers full end-to-end control of their blockchain infrastructure and implementation. 
 
